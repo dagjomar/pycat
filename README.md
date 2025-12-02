@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="pycat-logo.png" alt="PyCat Logo" width="300">
+</div>
+
 # NetCat File Transfer
 
 A simple Python GUI application for transferring files between computers using netcat.
