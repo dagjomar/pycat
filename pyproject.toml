@@ -1,0 +1,14 @@
+[project]
+name = "netcat-transfer"
+version = "0.1.0"
+description = "Simple file transfer tool using netcat with GUI"
+requires-python = ">=3.8"
+dependencies = []
+
+[project.scripts]
+netcat-transfer = "netcat_transfer:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
